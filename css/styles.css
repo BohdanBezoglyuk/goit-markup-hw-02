@@ -43,12 +43,12 @@ ol {
 .logo1-1 {
   color: #2e2f42;
 }
-.navigation {
+.navi {
   letter-spacing: 0.02em;
   color: #2e2f42;
   font-weight: 500;
 }
-.navigation :hover {
+.navi :hover :focus {
   color: #404bbf;
 }
 .address-info {
@@ -61,7 +61,6 @@ ol {
   color: #434455;
   font-weight: 500;
 }
-.contacts :hover,
-:focus {
+.contacts :hover :focus {
   color: #404bbf;
 }
