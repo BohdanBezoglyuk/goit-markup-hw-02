@@ -104,3 +104,10 @@ address {
 .list {
   background-color: #ffffff;
 }
+.end-a {
+  background-color: #2e2f42;
+
+  .p-end {
+    color: #f4f4fd;
+  }
+}
