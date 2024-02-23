@@ -107,8 +107,9 @@ address {
 .end-a {
   background-color: #2e2f42;
 }
-.foot-p {
+.foot {
   color: #f4f4fd;
+  font-family: inherit;
 }
 .logot {
   color: #f4f4fd;
