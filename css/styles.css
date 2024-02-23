@@ -48,8 +48,7 @@ ol {
   color: #2e2f42;
   font-weight: 500;
 }
-.navigation :hover,
-:focus {
+.navigation :hover {
   color: #404bbf;
 }
 .address-info {
@@ -62,6 +61,7 @@ ol {
   color: #434455;
   font-weight: 500;
 }
-.contacts :hover {
+.contacts :hover,
+:focus {
   color: #404bbf;
 }
