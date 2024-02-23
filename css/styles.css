@@ -12,6 +12,9 @@ ul,
 ol {
   list-style: none;
 }
+address {
+  font-style: normal;
+}
 .header {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
