@@ -53,8 +53,6 @@ ol {
 }
 .navi:focus {
   color: #404bbf;
-.address-info {
-  font-style: normal;
 }
 .contacts {
   font-size: 16px;
@@ -62,6 +60,7 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
   font-weight: 500;
+  font-style: normal;
 }
 .contacts:hover {
   color: #404bbf;
